@@ -49,7 +49,9 @@ How I personally visualize HydroVision as a concept is as a way to gather and sh
 
 ## Components/Services
 
+Some of the required sensors for the HydroVision project are listed in the section titled "How Do We Measure Water Quality?". For the purposes of this demo these will not be utilized. Instead, a rough proof of concept utilizing a Arduino Uno set up with a DHT11 to act as a temperature and humidity sensor will collect sensor data where it is then meant to be sent to a database housed in Azure in the form of a JSON file where the data can then be extracted and visualised as a graph, table, chart, map or the like.
 
+The HydroVision project as envisioned in its completed state would also support large clusters of sensors as well as the server/database infrastructure necessary to store and handle all the collected server data. It would also support receiving sensor data from one or several API as well as add-on software developed by a third party or by the client themself in cases where a more customized implementation is wanted. This is, however, outside of the scope of this demo.
 
 ## Overview/Structure
 
