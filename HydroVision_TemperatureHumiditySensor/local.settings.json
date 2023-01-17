@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountcamil85ee;AccountKey=owKl9XC2Crr/5Ve2lpexs87FkTGwzpDcZzWYXn9masPrzNxv6nlCsmwvOjd+5o5Z1iE/BSG3YyGVrc1E3K24RA==;BlobEndpoint=https://storageaccountcamil85ee.blob.core.windows.net/;TableEndpoint=https://storageaccountcamil85ee.table.core.windows.net/;QueueEndpoint=https://storageaccountcamil85ee.queue.core.windows.net/;FileEndpoint=https://storageaccountcamil85ee.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Camilo-hubb": "Endpoint=sb://ihsuprodamres104dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=bpTmFXm6KLrNL9suSUNSH5+0H8gC8y1uNrivwaywTAs=;EntityPath=iothub-ehub-camilo-hub-9737048-c5fb8ef638",
+    "SqlConnection": "Server=tcp:camilo-sql-serverbase.database.windows.net,1433;Initial Catalog=CamiloBase;Persist Security Info=False;User ID=SqlAdmin;Password=Batman123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}{
+
+}
